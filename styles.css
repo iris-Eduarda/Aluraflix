@@ -1,6 +1,6 @@
 body {
     color: white;
-    background: black;
+    background: rgba(240, 165, 223, 0.349);
     margin: 0px;
 }
 
@@ -21,4 +21,7 @@ section {
 
 .chamada-texto {
     margin-right: 5%;
+}
+img {
+  height: 200px;
 }
